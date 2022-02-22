@@ -2,7 +2,7 @@
 
 
 
-[![Linkedin Badge](https://www.linkedin.com/in/kalyani-wadewale-628232228/](https://www.linkedin.com/in/aakash--01629954/)
+[![Linkedin Badge](https://www.linkedin.com/in/kalyani-wadewale-628232228/)](https://www.linkedin.com/in/aakash--01629954/)
 [![Website Badge](https://stackoverflow.com/users/18254218/kalyani-a-wadewale)](https://stackoverflow.com/users/18254218/kalyani-a-wadewale)
 
 I'm
