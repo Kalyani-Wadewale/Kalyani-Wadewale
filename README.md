@@ -2,9 +2,9 @@
 
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Aakash-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/aakash--01629954/)](https://www.linkedin.com/in/kalyani-wadewale-628232228/)
+[![Linkedin Badge](https://img.shields.io/badge/-Kalyani-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kalyani--01629954/)](https://www.linkedin.com/in/kalyani-wadewale-628232228/)
 
-[![Website Badge](https://img.shields.io/badge/StackOverflow-Aakash-yellow)](https://stackoverflow.com/users/18254218/kalyani-a-wadewale)
+[![Website Badge](https://img.shields.io/badge/StackOverflow-Kayani-yellow)](https://stackoverflow.com/users/18254218/kalyani-a-wadewale)
 
 I'm
 SQL Server Database Administrator in Tata Consultancy Services Limited.I have 3+ years experience in SQL server Database Administration. Currently I am working in Norway's biggest finance sector "DNB ASA Bank"
