@@ -1,9 +1,8 @@
 ### Hi Developers 👋
 
 
-
-[![Linkedin Badge](https://www.linkedin.com/in/kalyani-wadewale-628232228/)](https://www.linkedin.com/in/aakash--01629954/)
-[![Website Badge](https://stackoverflow.com/users/18254218/kalyani-a-wadewale)](https://stackoverflow.com/users/18254218/kalyani-a-wadewale)
+https://www.linkedin.com/in/kalyani-wadewale-628232228/
+https://stackoverflow.com/users/18254218/kalyani-a-wadewale
 
 I'm
 SQL Server Database Administrator in Tata Consultancy Services Limited.I have 3+ years experience in SQL server Database Administration. Currently I am working in Norway's biggest finance sector "DNB ASA Bank"
